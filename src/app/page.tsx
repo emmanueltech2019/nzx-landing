@@ -1,6 +1,6 @@
 import Image from "next/image";
-import heroImg from "./components/img/redtruck.jpg";
-import heroImg2 from "./components/img/redtruck.jpg";
+import heroImg from "./components/img/2149853169.jpg";
+import heroImg2 from "./components/img/2149853169.jpg";
 
 export default function Home() {
   return (
